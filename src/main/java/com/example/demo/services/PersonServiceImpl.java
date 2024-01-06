@@ -38,4 +38,12 @@ public class PersonServiceImpl implements PersonService{
 		return personDto;
 	}
 
+	@Override
+	public PersonDto GetAchraf(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
 }
